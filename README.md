@@ -44,10 +44,7 @@ Project Structure
 
 Technologies Used
 
-	•	Python
- 
-	•	SQLite
- 
-	•	Pandas
- 
-	•	Matplotlib & Seaborn
+  - Python
+  - SQLite
+  - Pandas
+  - Matplotlib & Seaborn
